@@ -1,7 +1,5 @@
 ## ⭐Bem vindos ao meu GitHub!
 
-##
-
 - 🌱 Estudando para Front-end.
 
 <div>
