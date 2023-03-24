@@ -2,6 +2,7 @@
 
 - 🌱 Estudando para Front-end.
 - 💻 Focando em desenvolvimento WEB.
+- 📚 Meu GitHub de Estudos: <a href="https://github.com/anaxurias"> @anaxurias </a>.
 
 <div>
   <a href="https://github.com/anaxuria">
