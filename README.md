@@ -1,4 +1,4 @@
-## ⭐Oi, bem vindos ao meu GitHub!
+## ⭐Oi, eu sou a Anaxu!
 
 - 🌱 Estudando para Front-end.
 - 💻 Focando em desenvolvimento WEB.
