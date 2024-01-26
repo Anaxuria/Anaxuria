@@ -1,6 +1,6 @@
 ## ⭐Oi, eu sou a Anaxu!
 
-- 📓 Cursando ADS 2/6;
+- 📓 Cursando ADS 3/6;
 - 🌱 Estudando para Front-end;
 - 💻 Focando em desenvolvimento WEB;
 - 📚 Meu GitHub de Estudos: <a href="https://github.com/anaxurias"> @anaxurias </a>.
